@@ -9,11 +9,7 @@
 - <b>Python</b>
   
 
-<h2> 🤳 Connect with me:</h2>
-
-[twitter]: https://twitter.com/joshmadakor
-[indeed]: 
-[linkedin]: https://linkedin.com/in/
+<h2> 🤳 Connect with me:</h
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
