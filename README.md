@@ -1,27 +1,18 @@
-<h1>Hi, I'm Jaime! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a 
+# Jaime Altamirano
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+### (www.linkedin.com/in/jaime-altamirano-8a4399209)
+---
+## 📝 About Me
+I’m a highly skilled technician with 10+ years of hands-on experience in commercial and residential electrical, HVAC, and carpentry work. I’m now transitioning into the cybersecurity and tech security field, combining my background in physical systems with growing knowledge of digital infrastructure.
 
-- <b>Data Structures </b>
-- <b>Full Stack </b>
-- <b>PowerShell</b>
-- 
-- <b>Python</b>
+## 🎓 Education
+- **High School Diploma** - Liberty High School, 2010
+- **Bachelor Of Data Science** - Illinois Institute of Tech, 2025-Current
+
+## 📜 Certifications
+- **Cybersecurity Certificate** - Google, 2025
+- **Linux & SQL Certificate** - Google, 2025
   
-
-<h2> 🤳 Connect with me:</h
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### [Project Name](project-link)
+A brief description of what the project is about, the technologies used, and your role in it.
